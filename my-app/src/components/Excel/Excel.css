@@ -1,0 +1,21 @@
+.table-container {
+  border: 1px solid black;  
+}
+
+.excel-sheet-table {
+    display: flex !important;
+    padding: 0 35rem 0 0;
+    width: 100%;
+    justify-content: space-around;
+
+}
+
+.excel-sheet-table td {
+    border-right: 5px solid #eee;
+
+}
+
+.excel-sheet-table th {
+    border-right: 5px solid #eee;
+
+}

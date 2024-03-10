@@ -1,0 +1,14 @@
+.header-container {
+    display: block;
+    background-color: #eeeeeed7;
+}
+.header-list-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    margin: 0;
+}
+
+.header-list-element {
+    list-style: none;
+}
